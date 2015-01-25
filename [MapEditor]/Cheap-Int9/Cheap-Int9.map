@@ -1,0 +1,17 @@
+<map edf:definitions="editor_main">
+    <object id="object (vegashotel_sv) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="15033" doublesided="true" scale="1" dimension="0" posX="711.2002" posY="527.7998" posZ="253.4" rotX="0" rotY="0" rotZ="339.999"></object>
+    <object id="object (CJ_TOILET1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="2514" doublesided="false" scale="1" dimension="0" posX="723.6" posY="525.7" posZ="253.4" rotX="0" rotY="0" rotZ="338"></object>
+    <object id="object (CJ_BATH1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="2516" doublesided="false" scale="1" dimension="0" posX="719.9" posY="527.1" posZ="253.4" rotX="0" rotY="0" rotZ="340"></object>
+    <object id="object (CJ_B_SINK3) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="2523" doublesided="false" scale="1" dimension="0" posX="719.2" posY="525" posZ="253.4" rotX="0" rotY="0" rotZ="70"></object>
+    <object id="object (mrk_bed1) (1)" breakable="true" interior="0" alpha="255" model="1725" doublesided="false" scale="1" dimension="0" posX="708.5" posY="527.5" posZ="253.4" rotX="0" rotY="0" rotZ="339.999"></object>
+    <object id="object (SWANK_COUCH_2) (1)" breakable="true" interior="0" alpha="255" model="1761" doublesided="false" scale="1" dimension="0" posX="714" posY="528.1" posZ="253.4" rotX="0" rotY="0" rotZ="339.999"></object>
+    <object id="object (gb_livingrug04) (1)" breakable="true" interior="0" alpha="255" model="2835" doublesided="false" scale="1" dimension="0" posX="713.9" posY="526.4" posZ="253.4" rotX="0" rotY="0" rotZ="339.999"></object>
+    <object id="object (TV_WARD_Med_1) (1)" breakable="true" interior="0" alpha="255" model="2091" doublesided="false" scale="1" dimension="0" posX="713.4" posY="520.8" posZ="253.4" rotX="0" rotY="0" rotZ="160"></object>
+    <object id="object (MED_HI_FI_1) (2)" breakable="true" interior="0" alpha="255" model="2099" doublesided="false" scale="1" dimension="0" posX="707.3" posY="522.9" posZ="253.4" rotX="0" rotY="0" rotZ="160"></object>
+    <object id="object (SWANK_SPEAKER_4) (1)" breakable="true" interior="0" alpha="255" model="2233" doublesided="false" scale="1" dimension="0" posX="707.7" posY="522.7" posZ="253.4" rotX="0" rotY="0" rotZ="160"></object>
+    <object id="object (SWANK_SPEAKER_4) (2)" breakable="true" interior="0" alpha="255" model="2233" doublesided="false" scale="1" dimension="0" posX="706" posY="523.3" posZ="253.4" rotX="0" rotY="0" rotZ="159.999"></object>
+    <object id="object (Med_BOOKSHELF) (1)" breakable="true" interior="0" alpha="255" model="1742" doublesided="false" scale="1" dimension="0" posX="716.8" posY="525.6" posZ="253.4" rotX="0" rotY="0" rotZ="250"></object>
+    <object id="object (Frame_SLIM_3) (1)" breakable="true" interior="0" alpha="255" model="2262" doublesided="false" scale="2.3" dimension="0" posX="712.1" posY="528.7" posZ="255.1" rotX="0" rotY="0" rotZ="339.999"></object>
+    <object id="object (Frame_Clip_3) (1)" breakable="true" interior="0" alpha="255" model="2256" doublesided="false" scale="1" dimension="0" posX="709.4" posY="522.1" posZ="256" rotX="0" rotY="0" rotZ="160"></object>
+    <object id="object (castable1) (1)" breakable="true" interior="0" alpha="255" model="2802" doublesided="false" scale="1" dimension="0" posX="710.2" posY="522.9" posZ="253.8" rotX="0" rotY="0" rotZ="72"></object>
+</map>

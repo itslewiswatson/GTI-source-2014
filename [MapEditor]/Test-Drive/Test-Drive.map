@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <object id="object (vgsSairportland06) (1)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2105.5" posY="-4425.3999" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (4)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2145.5" posY="-4425.3999" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (5)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2145.5" posY="-4287.1001" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (6)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2105.5" posY="-4287.1001" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (7)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2065.5" posY="-4287.1001" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (8)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2065.5" posY="-4425.3999" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (9)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2185.3999" posY="-4287.1001" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (10)" breakable="true" interior="0" alpha="255" model="8171" doublesided="false" scale="1" dimension="0" posX="2185.5" posY="-4425.1001" posZ="0.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (d9_runway) (1)" breakable="true" interior="0" alpha="255" model="3074" doublesided="false" scale="1" dimension="0" posX="2123" posY="-4525.5" posZ="23.4" rotX="0" rotY="0" rotZ="0"></object>
+</map>

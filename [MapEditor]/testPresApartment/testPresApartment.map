@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="object (vegasNbball1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="6959" doublesided="false" scale="1" dimension="0" posX="286.89941" posY="-1610.39941" posZ="130" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNbball1) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="6959" doublesided="false" scale="0.60000002384186" dimension="0" posX="295.20001" posY="-1578.5" posZ="125" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (carter-stairs01) (1)" breakable="true" interior="0" alpha="255" model="14407" doublesided="false" scale="1" dimension="0" posX="304.70001" posY="-1588.5" posZ="126.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNbball1) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="6959" doublesided="false" scale="1" dimension="0" posX="287.10001" posY="-1590.5" posZ="110" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall06_lvs) (1)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="293.20001" posY="-1566.80005" posZ="126.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (shbbyhswall06_lvs) (2)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="293.10001" posY="-1566.80005" posZ="128.3" rotX="180" rotY="0" rotZ="90"></object>
+    <object id="object (shbbyhswall06_lvs) (3)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="292.89999" posY="-1566.80005" posZ="130.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (shbbyhswall06_lvs) (5)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="283.39999" posY="-1576.5" posZ="126.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall06_lvs) (6)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="283.39999" posY="-1582.40002" posZ="128.3" rotX="0" rotY="180" rotZ="180"></object>
+    <object id="object (shbbyhswall06_lvs) (7)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="283.39999" posY="-1575.19995" posZ="130.5" rotX="0" rotY="180" rotZ="179.995"></object>
+    <object id="object (shbbyhswall06_lvs) (8)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="307.10001" posY="-1578.40002" posZ="126.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall06_lvs) (9)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="307.10001" posY="-1576.69995" posZ="128.3" rotX="0" rotY="180" rotZ="180"></object>
+    <object id="object (shbbyhswall06_lvs) (10)" breakable="true" interior="0" alpha="255" model="8650" doublesided="false" scale="1" dimension="0" posX="307.10001" posY="-1575.19995" posZ="130.5" rotX="0" rotY="0" rotZ="179.995"></object>
+</map>

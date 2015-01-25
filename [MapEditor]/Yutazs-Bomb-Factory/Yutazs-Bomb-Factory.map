@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (searock02) (2)" breakable="true" interior="0" alpha="255" model="898" doublesided="false" scale="1" dimension="0" posX="-2258" posY="-1721.59998" posZ="485.89999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (searock02) (11)" breakable="true" interior="0" alpha="255" model="898" doublesided="false" scale="1" dimension="0" posX="-2249.3999" posY="-1715.59998" posZ="489" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (searock02) (13)" breakable="true" interior="0" alpha="255" model="898" doublesided="false" scale="1" dimension="0" posX="-2243.2998" posY="-1708.19922" posZ="484" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Hydra) (1)" paintjob="3" interior="0" alpha="255" model="520" plate="ZG79 R2A" dimension="0" posX="-2243" posY="-1708.19995" posZ="491.89999" rotX="251" rotY="0" rotZ="75" color="0,0,0,0,0,0,0,0,0,0,0,0"></vehicle>
+    <object id="object (cs_landbit_20) (1)" breakable="true" interior="0" alpha="255" model="18309" doublesided="true" scale="1" dimension="0" posX="-2371.8999" posY="-1688" posZ="491.10001" rotX="45" rotY="0" rotZ="8"></object>
+    <object id="object (searock02) (18)" breakable="true" interior="0" alpha="255" model="898" doublesided="false" scale="1" dimension="0" posX="-2254.6001" posY="-1688.59998" posZ="486.29999" rotX="145" rotY="0" rotZ="0"></object>
+    <object id="object (searock02) (19)" breakable="true" interior="0" alpha="255" model="898" doublesided="false" scale="1" dimension="0" posX="-2251.89941" posY="-1729" posZ="485.89999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (searock02) (20)" breakable="true" interior="0" alpha="255" model="898" doublesided="false" scale="1" dimension="0" posX="-2250" posY="-1738" posZ="484" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (searock02) (21)" breakable="true" interior="0" alpha="255" model="898" doublesided="false" scale="1" dimension="0" posX="-2245.19995" posY="-1698.80005" posZ="486.60001" rotX="144.998" rotY="75" rotZ="0"></object>
+    <vehicle id="vehicle (Sentinel) (1)" paintjob="3" interior="0" alpha="255" model="405" plate="AJ4S 0QT" dimension="0" posX="-2261.08813" posY="-1632.66455" posZ="521.69208" color="38,55,57,245,245,245,0,0,0,0,0,0"></vehicle>
+</map>

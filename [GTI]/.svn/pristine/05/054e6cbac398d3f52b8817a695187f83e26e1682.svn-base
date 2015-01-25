@@ -1,0 +1,19 @@
+----------------------------------------->>
+-- GTI: Grand Theft International
+-- Date: 11 Apr 2014
+-- Resource: GTIgroups/members/m_change_rank.lua
+-- Type: Client Side
+-- Author: JT Pennington (JTPenn)
+----------------------------------------->>
+
+-- Show GUI
+------------>>
+
+function showChangeRankGUI(button, state)
+	if (button ~= "left" or state ~= "up") then return end
+	guiBringToFront(mChangeRank.window[1])
+	guiSetVisible(mChangeRank.window[1], true)
+	showCursor(true)
+end
+addEventHandler("onClientGUIClick", groupPanel.button[6], showChangeRankGUI, false)
+

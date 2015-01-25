@@ -1,0 +1,45 @@
+<meta>
+	<info author="Diego" type="script" name="Stealth" />
+	<script src="script.lua"  type ="client"/>
+   	<file src="wall006.col" />
+	<file src="wall006.dff" />
+	<file src="All_walls.txd" />
+   	<file src="wall018.col" />
+	<file src="wall018.dff" />
+   	<file src="wall019.col" />
+	<file src="wall019.dff" />
+   	<file src="wall036.col" />
+	<file src="wall036.dff" />
+   	<file src="wall052.col" />
+	<file src="wall052.dff" />
+   	<file src="wall090.col" />
+	<file src="wall090.dff" />
+   	<file src="wall102.col" />
+	<file src="wall102.dff" />
+	<file src="wall071.dff" />
+	<file src="wall071.col" />
+	<file src="mall_law.txd" />
+	<file src="mallb_laW02.dff" />
+	<file src="mallb_laW02.col" />
+	<file src="lsmall_shop01.col" />
+	<file src="lsmall_window01.col" />
+	<file src="lsmall_window01.dff" />
+	<file src="lsmall_shop01.dff" />
+	<file src="lsmall_shops.txd" />
+	<script src="script2.lua" />
+		<file src="wall041.dff" />
+   	<file src="wall041.col" />
+	<file src="wall012.dff" />
+   	<file src="wall012.col" />
+	<file src="wall058.col" />
+	<file src="wall058.dff" />
+	<file src="wall077.col" />
+	<file src="wall077.dff" />
+	<file src="wall096.col" />
+	<file src="wall096.dff" />
+	<file src="hospital_law.dff" />
+	<file src="hospitalos.col" />
+	<file src="streetbugfix.col" />
+	    	<file src="fs.col" />
+	<file src="f-s.dff" />		
+</meta>

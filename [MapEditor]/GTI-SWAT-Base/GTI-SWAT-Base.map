@@ -1,0 +1,23 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (gaz2bld_law) (2)" radius="72.70547" interior="0" model="6223" lodModel="6224" posX="1264.047" posY="-1488.352" posZ="21.10156" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (Streetlamp2) (1)" radius="4.951889" interior="0" model="1231" lodModel="0" posX="1272.216" posY="-1488.442" posZ="12.67938" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (Streetlamp2) (2)" radius="4.951889" interior="0" model="1231" lodModel="0" posX="1297.519" posY="-1488.251" posZ="13.08175" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (gnhtelgrnd_lvs) (1)" breakable="true" interior="0" alpha="255" model="8661" doublesided="true" scale="1" dimension="0" posX="1277.3" posY="-1499.8" posZ="12.51" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (2)" breakable="true" interior="0" alpha="255" model="8661" doublesided="true" scale="1" dimension="0" posX="1277.4" posY="-1519.6" posZ="12.5122" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (3)" breakable="true" interior="0" alpha="255" model="8661" doublesided="true" scale="1" dimension="0" posX="1237.4" posY="-1499.5" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (5)" breakable="true" interior="0" alpha="255" model="8661" doublesided="true" scale="1" dimension="0" posX="1237.4" posY="-1519.4" posZ="12.513" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (laeroad42) (1)" breakable="true" interior="0" alpha="255" model="5507" doublesided="true" scale="1" dimension="0" posX="1235" posY="-1505" posZ="5" rotX="0" rotY="15" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (veg_tree3) (1)" radius="16.61446" interior="0" model="615" lodModel="0" posX="1323.867" posY="-1467.711" posZ="12.54688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (vgwstnewall6905) (1)" breakable="true" interior="0" alpha="255" model="7922" doublesided="true" scale="1" dimension="0" posX="1207.2" posY="-1495.3" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgwstnewall6905) (2)" breakable="true" interior="0" alpha="255" model="7922" doublesided="true" scale="1" dimension="0" posX="1207.1" posY="-1514.6" posZ="12.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (tall_fence) (1)" breakable="true" interior="0" alpha="255" model="974" doublesided="true" scale="1" dimension="0" posX="1210.8" posY="-1495.2" posZ="8.6" rotX="0" rotY="15" rotZ="0"></object>
+    <object id="object (tall_fence) (2)" breakable="true" interior="0" alpha="255" model="974" doublesided="true" scale="1" dimension="0" posX="1216.4" posY="-1495.1" posZ="7.1" rotX="0" rotY="14.996" rotZ="0"></object>
+    <object id="object (tall_fence) (3)" breakable="true" interior="0" alpha="255" model="974" doublesided="true" scale="1" dimension="0" posX="1210.6" posY="-1514.9" posZ="8.7" rotX="0" rotY="15" rotZ="0"></object>
+    <object id="object (tall_fence) (4)" breakable="true" interior="0" alpha="255" model="974" doublesided="true" scale="1" dimension="0" posX="1216.5" posY="-1514.9" posZ="7.1" rotX="0" rotY="14.996" rotZ="0"></object>
+    <object id="object (kb_planter_bush) (1)" breakable="true" interior="0" alpha="255" model="638" doublesided="true" scale="1" dimension="0" posX="1206.3" posY="-1497.7" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush) (2)" breakable="true" interior="0" alpha="255" model="638" doublesided="true" scale="1" dimension="0" posX="1206.3" posY="-1498.7" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush) (3)" breakable="true" interior="0" alpha="255" model="638" doublesided="true" scale="1" dimension="0" posX="1206.3" posY="-1512.1" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush) (4)" breakable="true" interior="0" alpha="255" model="638" doublesided="true" scale="1" dimension="0" posX="1206.3" posY="-1511.3" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gaz25_law) (1)" breakable="true" interior="0" alpha="255" model="6159" doublesided="true" scale="1" dimension="0" posX="1266" posY="-1509.9" posZ="20.2" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (veg_tree3) (2)" radius="16.61446" interior="0" model="615" lodModel="0" posX="1302.336" posY="-1507.164" posZ="12.54688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

@@ -1,0 +1,13 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (vgncarshow1) (1)" radius="67.5172" interior="0" model="7526" lodModel="7719" posX="1949.031" posY="2068.781" posZ="12.10938" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (BinNt07_LA) (1)" breakable="true" interior="0" alpha="255" model="1337" doublesided="false" scale="1" dimension="0" posX="1963.526" posY="2058.865" posZ="10.32031" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (lawnshop1) (2)" radius="49.26839" interior="0" model="5813" lodModel="5951" posX="958.8203" posY="-1359.867" posZ="17.96875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (BinNt07_LA) (2)" breakable="true" interior="0" alpha="255" model="1337" doublesided="false" scale="1" dimension="0" posX="1961.6" posY="2063.8" posZ="10.5" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (BillBd3) (1)" radius="18.33656" interior="0" model="1260" lodModel="1266" posX="932.5859" posY="-1363.516" posZ="21.79688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (BillBd2) (1)" radius="16.84787" interior="0" model="1267" lodModel="1261" posX="958.3359" posY="-1377.32" posZ="24.13281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (lawncluckbel) (1)" radius="25.39317" interior="0" model="5814" lodModel="6002" posX="931.2266" posY="-1357.328" posZ="25.82031" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (Gen_doorSHOP3) (2)" radius="3.456697" interior="0" model="1522" lodModel="0" posX="929.267" posY="-1353.022" posZ="13.72264" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (posters02_LAwN) (1)" radius="121.2702" interior="0" model="5818" lodModel="6003" posX="954.6875" posY="-1305.773" posZ="30.14063" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_BOX_PILE_3) (1)" radius="3.636488" interior="0" model="1440" lodModel="0" posX="948.0891" posY="-1381.22" posZ="13.30526" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (vegasNbball1) (1)" breakable="true" interior="0" alpha="255" model="6959" doublesided="true" scale="1" dimension="0" posX="965.7" posY="-1357.3" posZ="12.559" rotX="0" rotY="0" rotZ="0"></object>
+</map>

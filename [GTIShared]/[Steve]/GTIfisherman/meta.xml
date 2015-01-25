@@ -1,0 +1,5 @@
+<meta>
+<min_mta_version client="1.1.1-9.03316" server="1.0" />
+	<script src="fishermanS.lua" type="server" />
+	<script src="fisherman.luac" type="client" />
+</meta>

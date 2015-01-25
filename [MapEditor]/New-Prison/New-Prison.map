@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (freighter2b_SFE) (1)" radius="56.82127" interior="0" model="10229" lodModel="0" posX="-1421.875" posY="1489.445" posZ="5.82031" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (freighter_sfe) (1)" radius="62.64034" interior="0" model="10230" lodModel="10141" posX="-1421.625" posY="1490.859" posZ="6.96875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (freig2_intSFE) (1)" radius="41.94639" interior="0" model="10140" lodModel="0" posX="-1406.906" posY="1489.805" posZ="7.125" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sbseabed_CN04) (1)" radius="249.2794" interior="0" model="4316" lodModel="4375" posX="-1385.852" posY="1577.867" posZ="-69.39062" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (shipbits1_sfe) (1)" radius="8.419636" interior="0" model="10227" lodModel="0" posX="-1376.75" posY="1490.633" posZ="12.02344" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (shipbits2_sfe) (1)" radius="15.64322" interior="0" model="10226" lodModel="0" posX="-1377.234" posY="1491.625" posZ="6.21094" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (freightboxes) (1)" radius="36.72626" interior="0" model="10231" lodModel="0" posX="-1422.539" posY="1489.352" posZ="8.45313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (n_bit_18) (1)" breakable="true" interior="0" alpha="255" model="16252" doublesided="true" scale="1" dimension="0" posX="-3235.7" posY="1725.1" posZ="-58" rotX="0" rotY="0" rotZ="0"></object>
+</map>

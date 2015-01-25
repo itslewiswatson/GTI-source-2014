@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <ped id="ped (1)" dimension="0" model="0" interior="0" rotZ="0" alpha="255" posX="2470.5" posY="-1646" posZ="13.8" rotX="0" rotY="0"></ped>
+    <object id="object (BinNt07_LA) (1)" breakable="true" interior="0" alpha="255" model="1337" doublesided="false" scale="1" dimension="0" posX="2490.03101" posY="-1652.15405" posZ="12.98283"></object>
+</map>

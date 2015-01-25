@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <object id="object (tag_kilo) (1)" breakable="true" interior="0" alpha="255" model="1525" doublesided="true" scale="1" dimension="0" posX="1424.1" posY="-1357.7" posZ="14" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (tag_kilo) (2)" breakable="true" interior="0" alpha="255" model="1525" doublesided="true" scale="1" dimension="0" posX="1219.6" posY="-1428.8" posZ="13.6" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (tag_kilo) (3)" breakable="true" interior="0" alpha="255" model="1525" doublesided="true" scale="1" dimension="0" posX="476.6" posY="-1480.6" posZ="20.6" rotX="0" rotY="0" rotZ="164.5"></object>
+</map>

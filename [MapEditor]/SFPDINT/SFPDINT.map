@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (Gen_doorEXT12) (1)" breakable="true" interior="10" collisions="true" alpha="255" model="1533" doublesided="true" scale="1" dimension="0" posX="214.7" posY="127.07" posZ="1002.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (nu_plant_ofc) (1)" breakable="true" interior="10" collisions="true" alpha="255" model="2001" doublesided="true" scale="1" dimension="0" posX="217.0996" posY="126.5" posZ="1002.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (nu_plant_ofc) (2)" breakable="true" interior="10" collisions="true" alpha="255" model="2001" doublesided="true" scale="1" dimension="0" posX="214" posY="126.6" posZ="1002.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Gen_doorEXT16) (1)" breakable="true" interior="10" collisions="true" alpha="255" model="1537" doublesided="true" scale="1" dimension="0" posX="239.3" posY="114.2" posZ="1009.2" rotX="0" rotY="0" rotZ="270"></object>
+</map>

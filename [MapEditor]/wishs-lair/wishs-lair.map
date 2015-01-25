@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main">
+    <object id="object (studiobld03_laW) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="5706" doublesided="false" scale="1" dimension="0" posX="-2343" posY="-1590" posZ="480" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (studiobld03_laW) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="5706" doublesided="false" scale="1" dimension="0" posX="-2315" posY="-1590" posZ="480" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (studiobld03_laW) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="5706" doublesided="false" scale="1" dimension="0" posX="-2343" posY="-1610.19995" posZ="480" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (studiobld03_laW) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="5706" doublesided="false" scale="1" dimension="0" posX="-2315" posY="-1610.30005" posZ="480" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (studiobld03_laW) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="5706" doublesided="false" scale="1" dimension="0" posX="-2343" posY="-1632" posZ="480" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (studiobld03_laW) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="5706" doublesided="false" scale="1" dimension="0" posX="-2315" posY="-1632" posZ="480" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (stuntramp1_las2) (1)" breakable="true" interior="0" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="-2330.8999" posY="-1643.69995" posZ="482.78" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (ClubGate01_LAx) (2)" breakable="true" interior="0" alpha="255" model="3749" doublesided="false" scale="1" dimension="0" posX="-2330.30005" posY="-1639.58997" posZ="488.89999" rotX="0" rotY="0" rotZ="0"></object>
+</map>
